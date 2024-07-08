@@ -21,3 +21,8 @@ Findings/Discussion<br/>
 We conducted primary research in the form of interviews. The interviewees that we spoke to found the coaster to be “clever.” Three of four said they would definitely use it on their desks as a hydration reminder and all four like the overall concept and the ways that Calm Technology was included.<br/>
 
 
+
+https://github.com/avelas68/Interactive-Hydration-Coaster/assets/47703183/d3fc4230-686a-4e9a-9322-4f83a4694c35
+
+
+![InteractiveHydrationCoaster](https://github.com/avelas68/Interactive-Hydration-Coaster/assets/47703183/fd82bc8c-00a2-4fc1-9b34-55b598115d8f)
